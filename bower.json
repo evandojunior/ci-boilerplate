@@ -1,0 +1,21 @@
+{
+  "name": "ci-boilerplate",
+  "authors": [
+    "Evando Junior <evando.junior@live.com>"
+  ],
+  "description": "Boilerplate for CodeIgniter 3x projects",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
